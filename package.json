@@ -1,0 +1,33 @@
+{
+  "name": "gulp-inline-js-music",
+  "version": "0.0.1",
+  "description": "在js文件中嵌入其它js文件，支持递归嵌入",
+  "author": {
+    "name": "majyg",
+    "email": "503273365@qq.com"
+  },
+  "bugs": {
+    "url": "https://github.com/majyg468/gulp-inline-js-music/issues"
+  },
+  "engines": {
+    "node": ">=0.9"
+  },
+  "homepage": "https://github.com/majyg468/gulp-inline-js-music/",
+  "keywords": [
+    "gulpplugin",
+    "js",
+    "inline"
+  ],
+  "licenses": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:majyg468/gulp-inline-js-music.git"
+  },
+  "dependencies": {
+    "vinyl": "^0.4.0",
+    "gulp-util": ">=3.0.0 <4.0.0-0",
+    "through2": ">=0.6.1 <1.0.0-0",
+    "iconv-lite": "0.2.10"
+  }
+}

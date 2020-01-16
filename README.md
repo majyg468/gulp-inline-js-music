@@ -1,2 +1,5 @@
 # gulp-inline-js-music
-基于gulp-inline-js 修正版 该项目目前不在维护状态 pr也无响应 特此单独建一个项目
+
+gulp-inline-js该项目目前不在维护状态 pr也无响应 本项目是基于 https://github.com/ustbhuangyi/gulp-inline-js 做的修正版
+
+在js文件中嵌入其它js文件，支持递归嵌入
